@@ -1,2 +1,2 @@
 # Infobip-Chatbot
-Messaging chatbot built for HackWestern
+Messaging system built for HackWestern
